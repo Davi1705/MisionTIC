@@ -1,0 +1,12 @@
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+E:\USUARIO\Documents\TIC\Programacion\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
